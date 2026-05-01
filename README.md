@@ -1,7 +1,6 @@
-[![DOI](https://zenodo.org/badge/482376890.svg)](https://zenodo.org/badge/latestdoi/482376890)
-
-# kba-threshold-sensitivity-analysis
+# KBA Threshold Sensitivity Analysis
 Sensitivity Analysis of KBA Ecosystem Criteria. A Study Project in Collaboration with NatureServe.
+## Navigate to blog post: [Analysis Blog Post](https://github.com/ericrnutt5/kba-threshold-sensitivity-analysis/blob/main/kba-project-blog-post.ipynb)
 
 # Members 
 * [Christy Sandberg](https://github.com/csandberg303)
